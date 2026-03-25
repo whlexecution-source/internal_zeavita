@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Zeavita ETL \u0027 Internal",
+  "description": "Upload Zeavita raw data, transform, and export to Google Sheets.",
+  "requestFramePermissions": []
+}
